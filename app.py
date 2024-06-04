@@ -18,7 +18,7 @@ Senior Data Analyst, assisting enterprises by supporting data-driven decision-ma
 """
 EMAIL = "johndoe@email.com"
 SOCIAL_MEDIA = {
-    "OnlyFans": "https://onlyfans.com/pavel242",
+    "OnlyFans": "https://onlyfans.com/chocho_work",
     "LinkedIn": "https://www.linkedin.com/in/pavel-chocholous/",
     "GitHub":
     "https://github.com/pavel242242/digital-resume-template-streamlit",
