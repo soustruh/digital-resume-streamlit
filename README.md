@@ -16,7 +16,7 @@ Feel free to use this template and adjust it to your needs & liking.<br>
 
 ## Live Demo
 
-👉 **https://chocho.streamlit.app/**
+👉 https://chocho.streamlit.app/
 
 ## Screenshots
 
