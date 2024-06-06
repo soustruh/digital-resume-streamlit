@@ -10,9 +10,13 @@ Feel free to use this template and adjust it to your needs & liking.<br>
 - YouTube video here: https://youtu.be/clwpf3VwCZQ
 - Sven Bo: https://github.com/Sven-Bo/digital-resume-template-streamlit
 
+## Necessary slide deck
+
+[Slides](https://docs.google.com/presentation/d/1I2mzfgkjh4b3GsFnZI1gwj7xmO6KIJlwChzHwpFROKE/edit?usp=drive_link)
+
 ## Live Demo
 
-👉 **https://pavel242242-digital-resume-template-streamlit-app-lsa3k2.streamlit.app/**
+👉 **https://chocho.streamlit.app/**
 
 ## Screenshots
 
