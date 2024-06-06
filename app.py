@@ -43,11 +43,15 @@ SECTIONS = {
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
-# --- LOAD CSS, PDF & PROFIL PIC ---
+# --- LOAD CSS - Trochu crazy, ale neni to uplne nutny, jen priklad, co jde delat.. ---
 with open(css_file) as f:
     st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
+
+# --- LOAD PDF
 with open(resume_file, "rb") as pdf_file:
     PDFbyte = pdf_file.read()
+
+# --- PROFIL PIC
 profile_pic = Image.open(profile_pic)
 
 with st.sidebar:

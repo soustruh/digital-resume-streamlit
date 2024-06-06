@@ -44,3 +44,7 @@ streamlit run app.py
 ## Run automagically
 
 Have a look at `setup.sh` and `Procfile` in the root directory, just uncommentig stuffs will get you through the enchanted gate to automation.
+
+
+## Pro tip:
+Copy the app code and as chatgpt to fill it with information from your resume. Works pretty well.
