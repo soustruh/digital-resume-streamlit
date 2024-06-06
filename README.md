@@ -43,7 +43,7 @@ streamlit run app.py
 
 ## Run automagically
 
-Have a look at `setup.sh` and `Procfile` in the root directory, just uncommentig stuffs will get you through the enchanted gate to automation.
+Have a look at `_setup.sh` and `_Procfile` in the root directory, just uncomment stuffs, remove underscores and get through the enchanted gate to automation.
 
 
 ## Pro tip:
