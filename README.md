@@ -43,7 +43,7 @@ streamlit run app.py
 
 ## Run automagically
 
-Have a look at `_setup.sh` and `_Procfile` in the root directory, just uncomment stuffs, remove underscores and get through the enchanted gate to automation.
+Find `.devcontainer/_devcontainer.json` have a look inside, remove underscore and get through the enchanted gate to github codespaces automation.
 
 
 ## Pro tip:
