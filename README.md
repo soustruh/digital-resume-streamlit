@@ -4,7 +4,8 @@ Create a digital resume in minutes with Python and Streamlit. In this tutorial, 
 
 Feel free to use this template and adjust it to your needs & liking.<br>
 
-💡 **The whole thig is inspired by random internet heroes: ** <br>
+ 
+## 💡The whole thingy is inspired by random internet heroes:
 
 - Repository here: https://github.com/divanov11/Digital-Resume
 - YouTube video here: https://youtu.be/clwpf3VwCZQ
