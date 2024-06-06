@@ -40,3 +40,7 @@ Terminal
 # vanilla terminal
 streamlit run app.py
 ```
+
+## Run automagically
+
+Have a look at `setup.sh` and `Procfile` in the root directory, just uncommentig stuffs will get you through the enchanted gate to automation.
