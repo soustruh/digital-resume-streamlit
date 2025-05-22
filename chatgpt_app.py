@@ -10,13 +10,13 @@ resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Jane Doe"
+PAGE_TITLE = "My Digital CV | Soustruh"
 PAGE_ICON = ":wave:"
-NAME = "Jane Doe"
+NAME = "Soustruh"
 DESCRIPTION = """
-Recent graduate of the Czechitas Digital Academy Data, transitioning from marketing to data analytics, passionate about leveraging data to drive business decisions.
+Programmer in Keboola since 2024! 🌈 🦄 🥳 
 """
-EMAIL = "janedoe@email.com"
+EMAIL = "martin.struzsky@keboola.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/janedoe/",
     "GitHub": "https://github.com/janedoe/data-portfolio",
